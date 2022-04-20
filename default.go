@@ -3,7 +3,7 @@ package rex
 import (
 	"time"
 
-	"github.com/ije/rex/session"
+	"github.com/jimisaacs/rex/session"
 )
 
 var defaultAPIHanlder = &APIHandler{}

@@ -1,4 +1,4 @@
-module github.com/ije/rex
+module github.com/jimisaacs/rex
 
 go 1.16
 

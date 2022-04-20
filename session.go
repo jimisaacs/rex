@@ -1,7 +1,7 @@
 package rex
 
 import (
-	"github.com/ije/rex/session"
+	"github.com/jimisaacs/rex/session"
 )
 
 // Session handles sessions for Context

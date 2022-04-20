@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ije/rex"
+	"github.com/jimisaacs/rex"
 )
 
 const indexHTML = `

@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/ije/gox/utils"
-	"github.com/ije/rex/session"
+	"github.com/jimisaacs/rex/session"
 )
 
 // Header is REX middleware to set http header

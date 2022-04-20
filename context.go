@@ -14,7 +14,7 @@ import (
 
 	"github.com/andybalholm/brotli"
 	"github.com/ije/gox/utils"
-	"github.com/ije/rex/session"
+	"github.com/jimisaacs/rex/session"
 )
 
 // A Context to handle http requests.
